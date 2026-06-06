@@ -1,0 +1,14 @@
+STUDENT GRADE RESULTS
+By Eugene Barasa - Maseno University
+========================================
+
+Name: Baraza
+Average: 74.5
+Grade: A - Excellent!
+------------------------------
+Name: Eugene
+Average: 85.25
+Grade: A - Excellent!
+------------------------------
+
+Best Student: Eugene - 85.25%
